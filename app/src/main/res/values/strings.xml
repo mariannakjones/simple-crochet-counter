@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Crochet Counter</string>
+    <string name="txtRow">Row:</string>
+    <string name="txtStitch">Stitch:</string>
+    <string name="txtRowCount"></string>
+    <string name="txtStitchCount"></string>
+    <string name="btnAddRow">Add Row</string>
+    <string name="btnAddStitch">Add Stitch</string>
+    <string name="btnClear">Clear</string>
+</resources>
